@@ -1,4 +1,4 @@
-# 🌐 Laser Liaisons: How Photonic Systems Transformed Operation Trinetra in Arunachal Pradesh (2025)
+#  Laser Liaisons: How Photonic Systems Transformed Operation Trinetra in Arunachal Pradesh (2025)
 
 ![image](https://github.com/user-attachments/assets/4b5b5749-cf1a-487a-92c9-0305b38bb012)
 
@@ -9,7 +9,6 @@ In today’s world of high-tech warfare, secure communication is more than just 
 
 This report dives into **Operation Trinetra**, a high-altitude surveillance and response mission carried out in **Arunachal Pradesh** in early 2025. Indian forces, supported by engineers and defense scientists, used advanced **photonic communication systems** to maintain an edge—ensuring real-time, secure, and interference-free coordination in one of the most challenging terrains on Earth.
 
----
 
 ## 2. Reflection Coefficient (Γ)
 
@@ -25,7 +24,6 @@ When laser sources and photonic circuits are connected, any mismatch in impedanc
 **Use in Operation Trinetra:**  
 Engineers ensured laser transmitters and electronic drivers were precisely matched in impedance. This meant clean, uninterrupted signal paths—even across snowy ridgelines.
 
----
 
 ## 3. Voltage Standing Wave Ratio (VSWR)
 
@@ -37,7 +35,6 @@ VSWR indicates how efficiently power flows through the system. A value close to 
 **Field application:**  
 Laser diodes and optical couplers were tuned to maintain optimal VSWR, ensuring smooth data transfer across rugged terrain.
 
----
 
 ## 4. Return Loss (RL)
 
@@ -49,7 +46,6 @@ Return loss quantifies how much of the signal is *not* reflected. Higher values 
 **On-ground insights:**  
 At mountaintop control nodes, return loss was monitored continuously. Even during bad weather, fiber alignment and signal strength held firm.
 
----
 
 ## 5. Insertion Loss (IL)
 
@@ -62,7 +58,6 @@ Insertion loss shows signal reduction through a device. Keeping IL low is critic
 **In Trinetra’s harsh conditions:**  
 Low-loss splitters and amplifiers ensured that light pulses from drones and satellites retained strength over vast distances.
 
----
 
 ## 6. S-Matrix for 2-Port Network
 
@@ -75,7 +70,6 @@ This scattering matrix reveals how much signal is reflected or transmitted betwe
 **Pre-deployment checks:**  
 Photonic switches and routers were validated using S-parameter analysis to ensure seamless network performance.
 
----
 
 ## 7. Power Delivered to Load (P<sub>L</sub>)
 
@@ -88,7 +82,6 @@ This tells us how much input power actually reaches the device.
 **Why it was critical:**  
 Every milliwatt counted. Transmitters were adjusted to maximize received laser pulse strength under extreme conditions.
 
----
 
 ## 8. Z to S Parameter Conversion
 
@@ -101,7 +94,6 @@ These conversions bridge the gap between impedance (Z) and scattering (S) models
 **Application in Trinetra:**  
 Ensured compatibility between devices from different developers—vital for rapid and cohesive system deployment.
 
----
 
 ## 9. Scattering Parameter Definition
 
@@ -114,10 +106,9 @@ This core definition allows engineers to predict system behavior in real-world c
 **Operational advantage:**  
 Portable analyzers were used on-site to validate each transceiver, switch, and module—ensuring reliability during mission-critical operations.
 
----
 
 
-## 🔥 Conclusion: Soldiers of Light and Logic
+##  Conclusion: Soldiers of Light and Logic
 
 Operation Trinetra was more than just a surveillance mission—it was a demonstration of how *light* became a weapon of clarity and coordination.
 
